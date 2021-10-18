@@ -1,4 +1,4 @@
-# Creating CRUD Python Web App with Flask and creating complete CI/CD pipeline with testing in code
+# Creating CRUD Python Web App with Flask & complete CI/CD pipeline with testing in code
 
 In Progress - 
 
